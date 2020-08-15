@@ -3,7 +3,7 @@
 Asherah is an application-layer encryption SDK, currently in incubator status, that provides advanced encryption
 features and defense in depth against compromise.
 
-### NOTICE: This is an beta product
+### NOTICE: This is an alpha product
 
 Internally, we are preparing this for production workloads and have a high degree of confidence in it, but we want to
 be clear that this should still be considered an incubator project. We have **not** yet had any formal external
